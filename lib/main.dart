@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Center(
-        child: Text('hello'),
+        child: Text('hello man'),
       ),
     ),
   );
